@@ -1,0 +1,49 @@
+body {
+  background-color:gray;
+  padding:50px;
+}
+
+h1 {
+  color: blue;
+  text-align:center;
+  margin-bottom:40px;
+}
+
+h3 {
+  color: rgb(25, 0, 255);
+  text-align:center;
+  margin-bottom:40px;
+}
+
+form{
+    background-color:rgb(255, 255, 255);
+    max-width:600px;
+    margin:auto;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: black 15px;
+}
+
+p {
+  color: red;
+}
+
+label {
+  font-weight: bold;
+}
+label{
+    display:block;
+    margin-bottom: 5px;
+  
+    font-weight: bold;
+    color:black;
+    display: inline-block;
+    width: 100px;
+    text-align: left;
+
+}
+.text-align{
+  display: inline-block;
+  
+}
+
